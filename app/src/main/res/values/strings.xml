@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">AttendanceTracker</string>
+    <string name="title_activity_login2">LoginActivity2</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="col1">Email</string>
+    <string name="col2">First Name</string>
+    <string name="col3">Last Name</string>
+    <string name="col4">E</string>
+    <string name="col5">D</string>
+    <string name="row1Name">Ali</string>
+    <string name="row1Age">51</string>
+    <string name="row1Surname">Mohammad</string>
+    <string name="msg_subscribed">Subscribed to daily news</string>
+    <string name="msg_subscribe_failed">Failed to subscribe to our daily news</string>
+    <string name="default_notification_channel_id" translatable="false">fcm_default_channel</string>
+
+    <string name="default_notification_channel_name" translatable="true">daily_news</string>
+
+</resources>
